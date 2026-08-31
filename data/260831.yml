@@ -1,0 +1,64 @@
+about:
+  description: A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+  license: AGPL-3.0
+  homepage: https://www.newapi.ai
+  head: 27ff6a8
+  archived: false
+  latestVersion: v1.0.0-rc.30
+  collectedAt: 2026-08-31T05:51:15Z
+timeline:
+  created: 2023-11-10
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 46838
+  watcher: 151
+  fork: 11145
+  release: 517
+  contributor: 290
+  pullRequest: 1707
+  issue: 3415
+language:
+  Go: 5969312
+  TypeScript: 1657241
+  JavaScript: 199592
+  CSS: 57049
+  Makefile: 2958
+  Dockerfile: 1419
+  Shell: 1248
+  Lua: 1246
+  HTML: 652
+totalLine: 7890717
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 8
+    mergedPR: 51
+    openPR: 156
+    closedIssue: 137
+    openIssue: 79
+    commit: 72
+  last90d:
+    since: 2026-06-02
+    release: 21
+    mergedPR: 214
+    openPR: 392
+    closedIssue: 589
+    openIssue: 275
+    commit: 380
+  last180d:
+    since: 2026-03-04
+    release: 72
+    mergedPR: 409
+    openPR: 594
+    closedIssue: 1211
+    openIssue: 520
+    commit: 768
+  last360d:
+    since: 2025-09-05
+    release: 100
+    mergedPR: 849
+    openPR: 594
+    closedIssue: 1680
+    openIssue: 656
+    commit: 1654
