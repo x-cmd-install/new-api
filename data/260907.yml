@@ -1,0 +1,212 @@
+about:
+  description: "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management."
+  license: AGPL-3.0
+  homepage: https://www.newapi.ai
+  head: 3b46522
+  archived: false
+  latestVersion: "v1.0.0-rc.34"
+  collectedAt: 2026-09-07T05:05:21Z
+timeline:
+  created: 2023-11-10
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-06
+popularity:
+  star: 47463
+  watcher: 159
+  fork: 11346
+  release: 521
+  contributor: 296
+  pullRequest: 3094
+  issue: 3482
+language:
+  Go: 7089092
+  TypeScript: 1782726
+  JavaScript: 217621
+  CSS: 57049
+  Makefile: 2958
+  Dockerfile: 1419
+  Shell: 1248
+  Lua: 1246
+  HTML: 652
+totalBytes: 9154011
+recent:
+  last30d:
+    since: 2026-08-08
+    release: 10
+    mergedPR: 49
+    openPR: 152
+    closedIssue: 140
+    openIssue: 77
+    commit: 81
+  last60d:
+    since: 2026-07-09
+    release: 14
+    mergedPR: 110
+    openPR: 304
+    closedIssue: 364
+    openIssue: 198
+    commit: 174
+  last90d:
+    since: 2026-06-09
+    release: 25
+    mergedPR: 207
+    openPR: 395
+    closedIssue: 586
+    openIssue: 287
+    commit: 400
+  last180d:
+    since: 2026-03-11
+    release: 68
+    mergedPR: 410
+    openPR: 620
+    closedIssue: 1226
+    openIssue: 521
+    commit: 781
+  last360d:
+    since: 2025-09-12
+    release: 100
+    mergedPR: 851
+    openPR: 620
+    closedIssue: 1713
+    openIssue: 672
+    commit: 1632
+  last720d:
+    since: 2024-09-17
+    release: 100
+    mergedPR: 1217
+    openPR: 620
+    closedIssue: 2407
+    openIssue: 720
+    commit: 4702
+total:
+  release: 521
+  mergedPR: 1313
+  openPR: 620
+  closedIssue: 2754
+  openIssue: 728
+  commit: 6302
+---
+path: /home/runner/.x-repo/github.com/QuantumNous/new-api
+collectedAt: 2026-09-07T05:05:30Z
+loc:
+  Go:
+    code: 187016
+    comments: 7448
+    blanks: 20578
+    files: 967
+  Tsx:
+    code: 138556
+    comments: 15896
+    blanks: 10287
+    files: 764
+  Json:
+    code: 63190
+    comments: 0
+    blanks: 5
+    files: 41
+  TypeScript:
+    code: 44234
+    comments: 12113
+    blanks: 5119
+    files: 411
+  JavaScript:
+    code: 5462
+    comments: 328
+    blanks: 279
+    files: 16
+  Css:
+    code: 1343
+    comments: 224
+    blanks: 142
+    files: 3
+  Yaml:
+    code: 819
+    comments: 166
+    blanks: 89
+    files: 6
+  Sh:
+    code: 66
+    comments: 2
+    blanks: 14
+    files: 2
+  Makefile:
+    code: 61
+    comments: 1
+    blanks: 11
+    files: 1
+  Dockerfile:
+    code: 30
+    comments: 2
+    blanks: 9
+    files: 1
+  Lua:
+    code: 25
+    comments: 12
+    blanks: 7
+    files: 1
+  Sql:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 19
+    comments: 3
+    blanks: 3
+    files: 1
+  Svg:
+    code: 10
+    comments: 0
+    blanks: 0
+    files: 2
+  Toml:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3639
+    blanks: 1363
+    files: 24
+total:
+  code: 441204
+  comments: 39899
+  blanks: 37959
+  files: 2243
+---
+
+---
+eget:
+  collectedAt: 2026-09-07T05:05:31+00:00
+  platform:
+    darwin/arm64:
+      name:  new-api-macos-v1.0.0-rc.34
+      url:   https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.34/new-api-macos-v1.0.0-rc.34
+      size:  152895010
+      score: 23
+    darwin/amd64:
+      name:  new-api-macos-v1.0.0-rc.34
+      url:   https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.34/new-api-macos-v1.0.0-rc.34
+      size:  152895010
+      score: 23
+    linux/arm64:
+      name:  new-api-arm64-v1.0.0-rc.34
+      url:   https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.34/new-api-arm64-v1.0.0-rc.34
+      size:  125567241
+      score: 18
+    linux/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
+    win/arm64:
+      name:  new-api-arm64-v1.0.0-rc.34
+      url:   https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.34/new-api-arm64-v1.0.0-rc.34
+      size:  125567241
+      score: 18
+    win/amd64:
+      name:  null
+      url:   null
+      size:  null
+      score: null
