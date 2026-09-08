@@ -2,25 +2,25 @@ about:
   description: "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management."
   license: AGPL-3.0
   homepage: https://www.newapi.ai
-  head: bee45b5
+  head: 75e5332
   archived: false
   latestVersion: "v1.0.0-rc.35"
-  collectedAt: 2026-09-08T02:05:39Z
+  collectedAt: 2026-09-08T05:02:00Z
 timeline:
   created: 2023-11-10
-  lastCommit: 2026-09-07
+  lastCommit: 2026-09-08
   lastRelease: 2026-09-07
 popularity:
-  star: 47545
-  watcher: 158
-  fork: 11367
+  star: 47565
+  watcher: 159
+  fork: 11369
   release: 522
   contributor: 296
-  pullRequest: 3098
+  pullRequest: 3100
   issue: 3486
 language:
   Go: 7102920
-  TypeScript: 1785160
+  TypeScript: 1788933
   JavaScript: 218008
   CSS: 57049
   Makefile: 2958
@@ -28,66 +28,66 @@ language:
   Shell: 1248
   Lua: 1246
   HTML: 652
-totalBytes: 9170660
+totalBytes: 9174433
 recent:
   last30d:
     since: 2026-08-09
     release: 11
     mergedPR: 48
-    openPR: 151
+    openPR: 152
     closedIssue: 143
     openIssue: 76
-    commit: 89
+    commit: 90
   last60d:
     since: 2026-07-10
     release: 15
     mergedPR: 105
-    openPR: 292
+    openPR: 290
     closedIssue: 355
     openIssue: 190
-    commit: 182
+    commit: 183
   last90d:
     since: 2026-06-10
     release: 26
     mergedPR: 206
-    openPR: 392
+    openPR: 390
     closedIssue: 582
     openIssue: 284
-    commit: 408
+    commit: 409
   last180d:
     since: 2026-03-12
     release: 69
     mergedPR: 409
-    openPR: 620
+    openPR: 618
     closedIssue: 1223
     openIssue: 521
-    commit: 789
+    commit: 790
   last360d:
     since: 2025-09-13
     release: 100
     mergedPR: 848
-    openPR: 620
+    openPR: 618
     closedIssue: 1713
     openIssue: 672
-    commit: 1640
+    commit: 1641
   last720d:
     since: 2024-09-18
     release: 100
     mergedPR: 1216
-    openPR: 620
+    openPR: 618
     closedIssue: 2404
     openIssue: 720
-    commit: 4698
+    commit: 4699
 total:
   release: 522
   mergedPR: 1313
-  openPR: 620
+  openPR: 618
   closedIssue: 2758
   openIssue: 728
-  commit: 6310
+  commit: 6311
 ---
 path: /home/runner/.x-repo/github.com/QuantumNous/new-api
-collectedAt: 2026-09-08T02:05:49Z
+collectedAt: 2026-09-08T05:02:15Z
 loc:
   Go:
     code: 187294
@@ -95,20 +95,20 @@ loc:
     blanks: 20627
     files: 968
   Tsx:
-    code: 138867
-    comments: 15917
-    blanks: 10319
-    files: 765
+    code: 139686
+    comments: 15977
+    blanks: 10354
+    files: 768
   Json:
-    code: 63190
+    code: 63281
     comments: 0
     blanks: 5
     files: 41
   TypeScript:
-    code: 44267
-    comments: 12141
-    blanks: 5124
-    files: 412
+    code: 44341
+    comments: 12177
+    blanks: 5131
+    files: 414
   JavaScript:
     code: 5467
     comments: 328
@@ -170,10 +170,10 @@ loc:
     blanks: 1363
     files: 24
 total:
-  code: 441831
-  comments: 39989
-  blanks: 38045
-  files: 2246
+  code: 442815
+  comments: 40085
+  blanks: 38087
+  files: 2251
 ---
 
 ---
