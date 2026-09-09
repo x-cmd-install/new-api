@@ -2,127 +2,127 @@ about:
   description: "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management."
   license: AGPL-3.0
   homepage: https://www.newapi.ai
-  head: 4fc9d1f
+  head: bdef117
   archived: false
   latestVersion: "v1.0.0-rc.36"
   latestRelease: "v1.0.0-rc.36"
   latestPrerelease: "v1.0.0-alpha.1"
-  collectedAt: 2026-09-09T05:17:31Z
+  collectedAt: 2026-09-09T19:16:38Z
 timeline:
   created: 2023-11-10
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-08
   lastRelease: 2026-09-08
   lastPrerelease: 2026-04-28
 popularity:
-  star: 47651
+  star: 47719
   watcher: 159
-  fork: 11393
+  fork: 11411
   release: 523
-  contributor: 296
-  pullRequest: 3111
-  issue: 3487
+  contributor: 297
+  pullRequest: 3117
+  issue: 3494
 language:
-  Go: 7170506
-  TypeScript: 1846895
-  JavaScript: 219519
-  CSS: 57345
+  Go: 7216969
+  TypeScript: 1968070
+  JavaScript: 230351
+  CSS: 60814
   Makefile: 2958
   Dockerfile: 1419
   Shell: 1248
   Lua: 1246
   HTML: 652
-totalBytes: 9301788
+totalBytes: 9483727
 recent:
   last30d:
     since: 2026-08-10
     release: 12
-    mergedPR: 46
+    mergedPR: 49
     openPR: 151
-    closedIssue: 144
-    openIssue: 77
-    commit: 107
+    closedIssue: 147
+    openIssue: 81
+    commit: 115
   last60d:
     since: 2026-07-11
     release: 16
-    mergedPR: 102
+    mergedPR: 105
     openPR: 292
-    closedIssue: 346
-    openIssue: 190
-    commit: 200
+    closedIssue: 349
+    openIssue: 194
+    commit: 208
   last90d:
     since: 2026-06-11
     release: 27
-    mergedPR: 205
+    mergedPR: 208
     openPR: 392
-    closedIssue: 583
-    openIssue: 286
-    commit: 426
+    closedIssue: 586
+    openIssue: 290
+    commit: 434
   last180d:
     since: 2026-03-13
     release: 69
-    mergedPR: 409
+    mergedPR: 412
     openPR: 625
-    closedIssue: 1219
-    openIssue: 525
-    commit: 807
+    closedIssue: 1222
+    openIssue: 529
+    commit: 815
   last360d:
     since: 2025-09-14
     release: 100
-    mergedPR: 847
+    mergedPR: 850
     openPR: 625
-    closedIssue: 1707
-    openIssue: 677
-    commit: 1658
+    closedIssue: 1710
+    openIssue: 681
+    commit: 1666
   last720d:
     since: 2024-09-19
     release: 100
-    mergedPR: 1216
+    mergedPR: 1219
     openPR: 625
-    closedIssue: 2396
-    openIssue: 725
-    commit: 4708
+    closedIssue: 2399
+    openIssue: 729
+    commit: 4716
 total:
   release: 523
-  mergedPR: 1313
+  mergedPR: 1316
   openPR: 625
-  closedIssue: 2754
-  openIssue: 733
-  commit: 6328
+  closedIssue: 2757
+  openIssue: 737
+  commit: 6336
 ---
 path: /home/runner/.x-repo/github.com/QuantumNous/new-api
-collectedAt: 2026-09-09T05:17:42Z
+collectedAt: 2026-09-09T19:16:50Z
 loc:
   Go:
-    code: 188786
-    comments: 7555
-    blanks: 20719
-    files: 971
+    code: 189638
+    comments: 7577
+    blanks: 20747
+    files: 972
   Tsx:
-    code: 148465
-    comments: 16539
-    blanks: 10655
-    files: 799
+    code: 151665
+    comments: 16738
+    blanks: 10726
+    files: 810
   Json:
-    code: 64346
+    code: 65069
     comments: 0
     blanks: 5
-    files: 41
+    files: 42
   TypeScript:
-    code: 45791
-    comments: 12390
-    blanks: 5215
-    files: 422
+    code: 49049
+    comments: 12698
+    blanks: 5345
+    files: 434
   JavaScript:
-    code: 5471
-    comments: 352
-    blanks: 279
+    code: 5616
+    comments: 359
+    blanks: 285
     files: 16
   Css:
-    code: 1354
-    comments: 224
-    blanks: 143
-    files: 3
+    code: 1456
+    comments: 242
+    blanks: 162
+    files: 4
   Yaml:
     code: 819
     comments: 166
@@ -170,14 +170,14 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3679
-    blanks: 1378
-    files: 24
+    comments: 3824
+    blanks: 1418
+    files: 25
 total:
-  code: 455616
-  comments: 40990
-  blanks: 38580
-  files: 2293
+  code: 463896
+  comments: 41689
+  blanks: 38874
+  files: 2320
 ---
 
 ---
