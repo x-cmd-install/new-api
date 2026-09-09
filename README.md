@@ -4,10 +4,10 @@ A unified AI model hub for aggregation & distribution. It supports cross-convert
 
 - **Upstream**: <https://github.com/QuantumNous/new-api>
 - **Homepage**: <https://www.newapi.ai>
-- **Latest release**: `v1.0.0-rc.35` (2026-09-07)
+- **Latest release**: `v1.0.0-rc.36` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **License**: AGPL-3.0
-- **Stars**: 47596 · **Forks**: 11378 · **Open issues**: 3493 · **Contributors**: 296
+- **Stars**: 47651 · **Forks**: 11393 · **Open issues**: 3487 · **Contributors**: 296
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/new-api> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T11:06:52Z._
+_Last regenerated: 2026-09-09T05:17:48Z._
