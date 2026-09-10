@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0-rc.36"
   latestRelease: "v1.0.0-rc.36"
   latestPrerelease: "v1.0.0-alpha.1"
-  collectedAt: 2026-09-10T16:47:31Z
+  collectedAt: 2026-09-10T20:50:42Z
 timeline:
   created: 2023-11-10
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-04-28
 popularity:
-  star: 47821
+  star: 47824
   watcher: 160
-  fork: 11429
+  fork: 11433
   release: 523
   contributor: 297
   pullRequest: 3121
-  issue: 3505
+  issue: 3508
 language:
   Go: 7216969
   TypeScript: 1968070
@@ -39,59 +39,59 @@ recent:
     release: 12
     mergedPR: 45
     openPR: 147
-    closedIssue: 152
-    openIssue: 82
+    closedIssue: 153
+    openIssue: 84
     commit: 115
   last60d:
     since: 2026-07-12
     release: 15
     mergedPR: 103
     openPR: 293
-    closedIssue: 349
-    openIssue: 194
+    closedIssue: 350
+    openIssue: 196
     commit: 208
   last90d:
     since: 2026-06-12
     release: 27
     mergedPR: 202
     openPR: 393
-    closedIssue: 586
-    openIssue: 291
+    closedIssue: 587
+    openIssue: 293
     commit: 434
   last180d:
     since: 2026-03-14
     release: 69
     mergedPR: 411
     openPR: 628
-    closedIssue: 1227
-    openIssue: 531
+    closedIssue: 1228
+    openIssue: 533
     commit: 815
   last360d:
     since: 2025-09-15
     release: 100
     mergedPR: 846
     openPR: 628
-    closedIssue: 1717
-    openIssue: 683
+    closedIssue: 1718
+    openIssue: 685
     commit: 1666
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 1218
     openPR: 628
-    closedIssue: 2405
-    openIssue: 732
+    closedIssue: 2406
+    openIssue: 734
     commit: 4715
 total:
   release: 523
   mergedPR: 1316
   openPR: 628
-  closedIssue: 2765
-  openIssue: 740
+  closedIssue: 2766
+  openIssue: 742
   commit: 6336
 ---
 path: /home/runner/.x-repo/github.com/QuantumNous/new-api
-collectedAt: 2026-09-10T16:47:49Z
+collectedAt: 2026-09-10T20:51:25Z
 loc:
   Go:
     code: 189638
