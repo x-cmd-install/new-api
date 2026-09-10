@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0-rc.36"
   latestRelease: "v1.0.0-rc.36"
   latestPrerelease: "v1.0.0-alpha.1"
-  collectedAt: 2026-09-10T20:50:42Z
+  collectedAt: 2026-09-10T22:53:16Z
 timeline:
   created: 2023-11-10
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-04-28
 popularity:
-  star: 47824
+  star: 47826
   watcher: 160
   fork: 11433
   release: 523
@@ -91,7 +91,7 @@ total:
   commit: 6336
 ---
 path: /home/runner/.x-repo/github.com/QuantumNous/new-api
-collectedAt: 2026-09-10T20:51:25Z
+collectedAt: 2026-09-10T22:53:26Z
 loc:
   Go:
     code: 189638
