@@ -38,7 +38,7 @@ Total: **463,550** lines of code across **2274** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 47,824 · **Forks**: 11,433 · **Open issues**: 3,508 · **Contributors**: 297
+- **Stars**: 47,826 · **Forks**: 11,433 · **Open issues**: 3,508 · **Contributors**: 297
 
 ## Totals (cumulative)
 
@@ -76,4 +76,4 @@ Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:51:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:53:31Z._
