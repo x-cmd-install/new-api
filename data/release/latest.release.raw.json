@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 180,
       "digest": "sha256:013bb68b4b4f00b8966380a36789b951cfbc090576cdbd3225c291ce3e1faf6a",
-      "download_count": 92,
+      "download_count": 159,
       "created_at": "2026-09-08T13:01:51Z",
       "updated_at": "2026-09-08T13:01:52Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-linux.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:709a64eb5b7bc09ece1fb0b846a1b4094bd83095cbfc421b01c4798d74b63a73",
-      "download_count": 42,
+      "download_count": 62,
       "created_at": "2026-09-08T13:01:45Z",
       "updated_at": "2026-09-08T13:01:45Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-macos.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:d5482d51e3dd44286dbe93696b502f0d02e3a1c8cef79fa3778f649dbdd426c7",
-      "download_count": 86,
+      "download_count": 154,
       "created_at": "2026-09-08T13:03:24Z",
       "updated_at": "2026-09-08T13:03:24Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-windows.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 125894921,
       "digest": "sha256:a08ebbbf64a5ae5c6f125fc74d78caf318856be18ca25bd587880f22c92f13b8",
-      "download_count": 41,
+      "download_count": 49,
       "created_at": "2026-09-08T13:01:51Z",
       "updated_at": "2026-09-08T13:01:56Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-arm64-v1.0.0-rc.36"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 153217106,
       "digest": "sha256:179b4d5962947a8926bd2b102e50511b6e699f9bc0d734e27e51e828f8ba5e9a",
-      "download_count": 54,
+      "download_count": 91,
       "created_at": "2026-09-08T13:01:45Z",
       "updated_at": "2026-09-08T13:01:51Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-macos-v1.0.0-rc.36"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 129888521,
       "digest": "sha256:5d9b254721c205f4f442848a4af5b58617a8c0ee090366732cfff90455e957f3",
-      "download_count": 230,
+      "download_count": 329,
       "created_at": "2026-09-08T13:01:51Z",
       "updated_at": "2026-09-08T13:01:56Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 131968000,
       "digest": "sha256:fac81f1bcaa654857c59e94c705dc2bf9e3c82c101fc863c80449c182e7df371",
-      "download_count": 399,
+      "download_count": 632,
       "created_at": "2026-09-08T13:03:24Z",
       "updated_at": "2026-09-08T13:03:30Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36.exe"
@@ -294,8 +294,8 @@
   "body": "> [!IMPORTANT]\r\n> **Task Plugins & Pricing / 任务插件与定价**\r\n>\r\n> 本版本完善任务插件与插件市场：插件图标、插件官网、插件元数据与能力，创建渠道时可带出对应插件信息。同时改进模型管理、目录展示与广场展示、定价配置，以及 API 密钥与用户额度、使用日志、兑换码。定价货币可切换为站点货币以便录入和查看，额度仍按美元扣费。\r\n>\r\n> This release improves Task Plugins and the Marketplace: Plugin icon, Plugin website, Plugin metadata, and Capabilities, plus matching plugin info when creating a Channel. It also improves Model management, Catalog visibility, Model square visibility, Pricing Configuration, Quota on API Keys and users, Usage Logs, and Redemption Codes. Pricing currency can switch to Site currency for entry and review; Quota is still deducted in USD.\r\n\r\n> [!WARNING]\r\n> **Experimental Plugin System / 实验性插件系统**\r\n>\r\n> 自 v1.0.0-rc.27 起引入的实验性插件系统仍处于测试阶段，并涉及较大的架构调整。如遇问题，请及时反馈。\r\n>\r\n> 从 v1.0.0-rc.26 或更早版本升级的用户，**必须重新配置所有视频模型价格**；已完成该配置的用户无需重复操作。**本版本仍不推荐用于生产环境。**\r\n>\r\n> The experimental plugin system introduced in v1.0.0-rc.27 remains under testing and includes major architectural changes. Please report any issues promptly.\r\n>\r\n> Users upgrading from v1.0.0-rc.26 or earlier **must reconfigure all video model prices**. Users who have already completed this step do not need to repeat it. **This release is still not recommended for production use.**\r\n\r\n## New Features\r\n\r\n* Improved Task Plugins and the Marketplace: Plugin metadata, Plugin website, Plugin icon (including optional `icon.svg` / `icon.png`), integrity checks, Capabilities, and clearer install/update flows.\r\n* Improved Channel setup for Task Plugins so a new Channel picks up the matching Plugin icon and Plugin metadata.\r\n* Added Site currency in Pricing Configuration. Display and conversion use the site exchange rate; stored prices remain in USD.\r\n* Improved Model management, pricing display, Catalog visibility, and Model square visibility. Channel-configured models appear without creating catalog metadata first. The Model square can show Pricing by condition, usage prices, and visibility reasons.\r\n* Added a searchable Group filter on Usage Logs. Suggestions come from the current view; historical Group names can still be typed in.\r\n* Refined the Usage Logs mobile layout so filters and quick actions stay available.\r\n* Refined Quota display on API Keys and users: Remaining quota and used amounts, progress bars, Group ratio badges, and activity timestamps. Full API Keys are resolved only for explicit copy or chat actions.\r\n* Added confirmed batch deletion for Redemption Codes, plus an optional Save as a file step (TXT / Markdown) after creation.\r\n\r\n## Fixes and Improvements\r\n\r\n* Show desktop API Keys Remaining quota and used amounts side by side, with more room and consistent cell spacing. Mobile stacked labels are unchanged.\r\n* Unified table cells and Quota details across list pages.\r\n\r\n---\r\n\r\n**Full Changelog**: [v1.0.0-rc.35...v1.0.0-rc.36](https://github.com/QuantumNous/new-api/compare/v1.0.0-rc.35...v1.0.0-rc.36)",
   "reactions": {
     "url": "https://api.github.com/repos/QuantumNous/new-api/releases/384733861/reactions",
-    "total_count": 1,
-    "+1": 1,
+    "total_count": 2,
+    "+1": 2,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,

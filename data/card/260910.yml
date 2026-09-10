@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0-rc.36"
   latestRelease: "v1.0.0-rc.36"
   latestPrerelease: "v1.0.0-alpha.1"
-  collectedAt: 2026-09-10T05:21:27Z
+  collectedAt: 2026-09-10T16:47:31Z
 timeline:
   created: 2023-11-10
   lastCommit: 2026-09-09
@@ -15,13 +15,13 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-04-28
 popularity:
-  star: 47754
-  watcher: 159
-  fork: 11417
+  star: 47821
+  watcher: 160
+  fork: 11429
   release: 523
   contributor: 297
-  pullRequest: 3118
-  issue: 3497
+  pullRequest: 3121
+  issue: 3505
 language:
   Go: 7216969
   TypeScript: 1968070
@@ -38,60 +38,60 @@ recent:
     since: 2026-08-11
     release: 12
     mergedPR: 45
-    openPR: 145
-    closedIssue: 146
-    openIssue: 80
+    openPR: 147
+    closedIssue: 152
+    openIssue: 82
     commit: 115
   last60d:
     since: 2026-07-12
     release: 15
     mergedPR: 103
-    openPR: 291
-    closedIssue: 343
-    openIssue: 192
+    openPR: 293
+    closedIssue: 349
+    openIssue: 194
     commit: 208
   last90d:
     since: 2026-06-12
     release: 27
     mergedPR: 202
-    openPR: 391
-    closedIssue: 580
-    openIssue: 289
+    openPR: 393
+    closedIssue: 586
+    openIssue: 291
     commit: 434
   last180d:
     since: 2026-03-14
     release: 69
     mergedPR: 411
-    openPR: 626
-    closedIssue: 1221
-    openIssue: 529
+    openPR: 628
+    closedIssue: 1227
+    openIssue: 531
     commit: 815
   last360d:
     since: 2025-09-15
     release: 100
     mergedPR: 846
-    openPR: 626
-    closedIssue: 1711
-    openIssue: 681
+    openPR: 628
+    closedIssue: 1717
+    openIssue: 683
     commit: 1666
   last720d:
     since: 2024-09-20
     release: 100
     mergedPR: 1218
-    openPR: 626
-    closedIssue: 2399
-    openIssue: 730
+    openPR: 628
+    closedIssue: 2405
+    openIssue: 732
     commit: 4715
 total:
   release: 523
   mergedPR: 1316
-  openPR: 626
-  closedIssue: 2759
-  openIssue: 738
+  openPR: 628
+  closedIssue: 2765
+  openIssue: 740
   commit: 6336
 ---
 path: /home/runner/.x-repo/github.com/QuantumNous/new-api
-collectedAt: 2026-09-10T05:21:40Z
+collectedAt: 2026-09-10T16:47:49Z
 loc:
   Go:
     code: 189638
