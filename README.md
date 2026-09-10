@@ -12,6 +12,18 @@ A unified AI model hub for aggregation & distribution. It supports cross-convert
 x install new-api
 ```
 
+## Code insight
+
+Total: **463,550** lines of code across **2274** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 189,638 | 7,577 | 20,747 | 972 |
+| Tsx | 151,665 | 16,738 | 10,726 | 810 |
+| Json | 65,069 | 0 | 5 | 42 |
+| TypeScript | 49,049 | 12,698 | 5,345 | 434 |
+| JavaScript | 5,616 | 359 | 285 | 16 |
+
 ## Source
 
 - **Upstream**: <https://github.com/QuantumNous/new-api>
@@ -23,6 +35,25 @@ x install new-api
 - **Latest**: `v1.0.0-rc.36` (2026-09-08)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 7
+
+## Popularity
+
+- **Stars**: 47,824 · **Forks**: 11,433 · **Open issues**: 3,508 · **Contributors**: 297
+
+## Totals (cumulative)
+
+- **Releases**: 523 · **Merged PRs**: 1316 · **Open PRs**: 628 · **Closed issues**: 2766 · **Open issues**: 742 · **Commits**: 6336
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 12 | 45 | 147 | 153 | 84 | 115 |
+| last60d | 2026-07-12 | 15 | 103 | 293 | 350 | 196 | 208 |
+| 90d | 2026-06-12 | 27 | 202 | 393 | 587 | 293 | 434 |
+| last180d | 2026-03-14 | 69 | 411 | 628 | 1228 | 533 | 815 |
+| 360d | 2025-09-15 | 100 | 846 | 628 | 1718 | 685 | 1666 |
+| last720d | 2024-09-20 | 100 | 1218 | 628 | 2406 | 734 | 4715 |
 
 ## Release assets
 
@@ -36,34 +67,6 @@ x install new-api
 | [new-api-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36) | 123.9 MiB | `other` |
 | [new-api-v1.0.0-rc.36.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36.exe) | 125.9 MiB | `other` |
 
-## Popularity
-
-- **Stars**: 47,821 · **Forks**: 11,429 · **Open issues**: 3,505 · **Contributors**: 297
-
-## Totals (cumulative)
-
-- **Releases**: 523 · **Merged PRs**: 1316 · **Open PRs**: 628 · **Closed issues**: 2765 · **Open issues**: 740 · **Commits**: 6336
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 45 | 147 | 152 | 82 | 115 |
-| 90d | 2026-06-12 | 27 | 202 | 393 | 586 | 291 | 434 |
-| 360d | 2025-09-15 | 100 | 846 | 628 | 1717 | 683 | 1666 |
-
-## Code size
-
-Total: **463,550** lines of code across **2274** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 189,638 | 7,577 | 20,747 | 972 |
-| Tsx | 151,665 | 16,738 | 10,726 | 810 |
-| Json | 65,069 | 0 | 5 | 42 |
-| TypeScript | 49,049 | 12,698 | 5,345 | 434 |
-| JavaScript | 5,616 | 359 | 285 | 16 |
-
 ## Improve this data
 
 Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `new-api` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -73,4 +76,4 @@ Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:51:31Z._
