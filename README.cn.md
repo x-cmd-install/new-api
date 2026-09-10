@@ -4,7 +4,7 @@
 
 A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
 
-![new-api](https://repo.x-cmd.io/new-api.svg)
+![new-api](https://repo.x-cmd.io/new-api.svg?lang=zh)
 
 ## 安装
 
@@ -23,23 +23,34 @@ x install new-api
 - **最新版本**: `v1.0.0-rc.36` (2026-09-08)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 7 个
-- **发布时间**: 2026-09-08T13:01:52Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-linux.txt) | 180 B | `other` |
+| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-macos.txt) | 93 B | `native/darwin/x64` |
+| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-windows.txt) | 91 B | `native/win/x64` |
+| [new-api-arm64-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-arm64-v1.0.0-rc.36) | 120.1 MiB | `other` |
+| [new-api-macos-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-macos-v1.0.0-rc.36) | 146.1 MiB | `native/darwin/x64` |
+| [new-api-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36) | 123.9 MiB | `other` |
+| [new-api-v1.0.0-rc.36.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36.exe) | 125.9 MiB | `other` |
 
 ## 流行度
 
-- **Star**: 47,754 · **Fork**: 11,417 · **开放 issue**: 3,497 · **贡献者**: 297
+- **Star**: 47,821 · **Fork**: 11,429 · **开放 issue**: 3,505 · **贡献者**: 297
 
 ## 累计统计
 
-- **发布数**: 523 · **已合并 PR**: 1316 · **开放 PR**: 626 · **已关闭 issue**: 2759 · **开放 issue**: 738 · **提交数**: 6336
+- **发布数**: 523 · **已合并 PR**: 1316 · **开放 PR**: 628 · **已关闭 issue**: 2765 · **开放 issue**: 740 · **提交数**: 6336
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 45 | 145 | 146 | 80 | 115 |
-| 90d | 2026-06-12 | 27 | 202 | 391 | 580 | 289 | 434 |
-| 360d | 2025-09-15 | 100 | 846 | 626 | 1711 | 681 | 1666 |
+| 30d | 2026-08-11 | 12 | 45 | 147 | 152 | 82 | 115 |
+| 90d | 2026-06-12 | 27 | 202 | 393 | 586 | 291 | 434 |
+| 360d | 2025-09-15 | 100 | 846 | 628 | 1717 | 683 | 1666 |
 
 ## 代码规模
 
@@ -62,4 +73,4 @@ new-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:47:56Z._

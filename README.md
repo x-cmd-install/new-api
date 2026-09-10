@@ -23,23 +23,34 @@ x install new-api
 - **Latest**: `v1.0.0-rc.36` (2026-09-08)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 7
-- **Published**: 2026-09-08T13:01:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-linux.txt) | 180 B | `other` |
+| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-macos.txt) | 93 B | `native/darwin/x64` |
+| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/checksums-windows.txt) | 91 B | `native/win/x64` |
+| [new-api-arm64-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-arm64-v1.0.0-rc.36) | 120.1 MiB | `other` |
+| [new-api-macos-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-macos-v1.0.0-rc.36) | 146.1 MiB | `native/darwin/x64` |
+| [new-api-v1.0.0-rc.36](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36) | 123.9 MiB | `other` |
+| [new-api-v1.0.0-rc.36.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.36/new-api-v1.0.0-rc.36.exe) | 125.9 MiB | `other` |
 
 ## Popularity
 
-- **Stars**: 47,754 · **Forks**: 11,417 · **Open issues**: 3,497 · **Contributors**: 297
+- **Stars**: 47,821 · **Forks**: 11,429 · **Open issues**: 3,505 · **Contributors**: 297
 
 ## Totals (cumulative)
 
-- **Releases**: 523 · **Merged PRs**: 1316 · **Open PRs**: 626 · **Closed issues**: 2759 · **Open issues**: 738 · **Commits**: 6336
+- **Releases**: 523 · **Merged PRs**: 1316 · **Open PRs**: 628 · **Closed issues**: 2765 · **Open issues**: 740 · **Commits**: 6336
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 12 | 45 | 145 | 146 | 80 | 115 |
-| 90d | 2026-06-12 | 27 | 202 | 391 | 580 | 289 | 434 |
-| 360d | 2025-09-15 | 100 | 846 | 626 | 1711 | 681 | 1666 |
+| 30d | 2026-08-11 | 12 | 45 | 147 | 152 | 82 | 115 |
+| 90d | 2026-06-12 | 27 | 202 | 393 | 586 | 291 | 434 |
+| 360d | 2025-09-15 | 100 | 846 | 628 | 1717 | 683 | 1666 |
 
 ## Code size
 
@@ -58,8 +69,8 @@ Total: **463,550** lines of code across **2274** files in the top 5 languages.
 Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `new-api` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/new-api.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/new-api.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:21:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:47:54Z._
