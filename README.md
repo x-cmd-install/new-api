@@ -14,12 +14,12 @@ x install new-api
 
 ## Code insight
 
-Total: **529,313** lines of code across **2454** files in the top 5 languages.
+Total: **529,914** lines of code across **2455** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 217,684 | 9,427 | 22,164 | 1029 |
-| Tsx | 175,811 | 18,313 | 11,759 | 891 |
+| Go | 217,932 | 9,475 | 22,149 | 1029 |
+| Tsx | 176,164 | 18,337 | 11,773 | 892 |
 | Json | 69,879 | 0 | 5 | 42 |
 | TypeScript | 55,609 | 13,586 | 5,706 | 474 |
 | JavaScript | 7,775 | 607 | 387 | 18 |
@@ -32,40 +32,40 @@ Total: **529,313** lines of code across **2454** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.0-rc.41` (2026-09-30)
-- **Last commit**: 2026-10-07
+- **Latest**: `v1.0.0-rc.42` (2026-10-08)
+- **Last commit**: 2026-10-08
 - **Assets in release**: 7
 
 ## Popularity
 
-- **Stars**: 49,388 · **Forks**: 11,878 · **Open issues**: 3,690 · **Contributors**: 311
+- **Stars**: 49,475 · **Forks**: 11,901 · **Open issues**: 3,696 · **Contributors**: 311
 
 ## Totals (cumulative)
 
-- **Releases**: 528 · **Merged PRs**: 1372 · **Open PRs**: 626 · **Closed issues**: 2945 · **Open issues**: 745 · **Commits**: 6486
+- **Releases**: 529 · **Merged PRs**: 1374 · **Open PRs**: 622 · **Closed issues**: 2947 · **Open issues**: 749 · **Commits**: 6494
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 6 | 49 | 91 | 127 | 81 | 140 |
-| last60d | 2026-08-09 | 17 | 104 | 211 | 288 | 146 | 265 |
-| 90d | 2026-07-10 | 21 | 162 | 332 | 510 | 250 | 360 |
-| last180d | 2026-04-11 | 55 | 405 | 595 | 1211 | 516 | 828 |
-| 360d | 2025-10-13 | 100 | 793 | 626 | 1803 | 700 | 1580 |
-| last720d | 2024-10-18 | 100 | 1271 | 626 | 2552 | 737 | 4822 |
+| 30d | 2026-09-09 | 6 | 48 | 84 | 122 | 81 | 147 |
+| last60d | 2026-08-10 | 18 | 104 | 203 | 286 | 145 | 272 |
+| 90d | 2026-07-11 | 22 | 161 | 323 | 497 | 248 | 367 |
+| last180d | 2026-04-12 | 56 | 404 | 589 | 1209 | 519 | 833 |
+| 360d | 2025-10-14 | 100 | 795 | 622 | 1803 | 704 | 1585 |
+| last720d | 2024-10-19 | 100 | 1273 | 622 | 2554 | 741 | 4830 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/checksums-linux.txt) | 180 B | `other` |
-| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/checksums-macos.txt) | 93 B | `native/darwin/x64` |
-| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/checksums-windows.txt) | 91 B | `native/win/x64` |
-| [new-api-arm64-v1.0.0-rc.41](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/new-api-arm64-v1.0.0-rc.41) | 126.3 MiB | `other` |
-| [new-api-macos-v1.0.0-rc.41](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/new-api-macos-v1.0.0-rc.41) | 152.1 MiB | `native/darwin/x64` |
-| [new-api-v1.0.0-rc.41](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/new-api-v1.0.0-rc.41) | 130.1 MiB | `other` |
-| [new-api-v1.0.0-rc.41.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.41/new-api-v1.0.0-rc.41.exe) | 132.1 MiB | `other` |
+| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/checksums-linux.txt) | 180 B | `other` |
+| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/checksums-macos.txt) | 93 B | `native/darwin/x64` |
+| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/checksums-windows.txt) | 91 B | `native/win/x64` |
+| [new-api-arm64-v1.0.0-rc.42](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/new-api-arm64-v1.0.0-rc.42) | 124.9 MiB | `other` |
+| [new-api-macos-v1.0.0-rc.42](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/new-api-macos-v1.0.0-rc.42) | 151.3 MiB | `native/darwin/x64` |
+| [new-api-v1.0.0-rc.42](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/new-api-v1.0.0-rc.42) | 128.9 MiB | `other` |
+| [new-api-v1.0.0-rc.42.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.42/new-api-v1.0.0-rc.42.exe) | 130.7 MiB | `other` |
 
 ## Improve this data
 
@@ -76,4 +76,4 @@ Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:34:53Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:37:04Z._
