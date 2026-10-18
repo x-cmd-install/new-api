@@ -14,14 +14,14 @@ x install new-api
 
 ## 代码洞察
 
-合计: **541,542** 行代码（覆盖前 5 种语言、共 **2496** 个文件）。
+合计: **547,428** 行代码（覆盖前 5 种语言、共 **2518** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 222,641 | 9,980 | 22,523 | 1044 |
-| Tsx | 178,236 | 18,604 | 11,954 | 906 |
-| Json | 73,527 | 0 | 5 | 43 |
-| TypeScript | 56,693 | 13,838 | 5,808 | 485 |
+| Go | 224,435 | 10,154 | 22,636 | 1052 |
+| Tsx | 180,711 | 18,744 | 12,049 | 913 |
+| Json | 73,793 | 0 | 5 | 43 |
+| TypeScript | 57,993 | 13,994 | 5,877 | 492 |
 | JavaScript | 8,418 | 470 | 403 | 18 |
 
 ## 源代码
@@ -32,40 +32,40 @@ x install new-api
 
 ## 发布
 
-- **最新版本**: `v1.0.0-rc.44` (2026-10-12)
-- **最近提交**: 2026-10-16
+- **最新版本**: `v1.0.0-rc.45` (2026-10-17)
+- **最近提交**: 2026-10-17
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 50,097 · **Fork**: 12,066 · **开放 issue**: 3,770 · **贡献者**: 318
+- **Star**: 50,148 · **Fork**: 12,078 · **开放 issue**: 3,779 · **贡献者**: 320
 
 ## 累计统计
 
-- **发布数**: 531 · **已合并 PR**: 1413 · **开放 PR**: 636 · **已关闭 issue**: 3021 · **开放 issue**: 749 · **提交数**: 6567
+- **发布数**: 532 · **已合并 PR**: 1419 · **开放 PR**: 633 · **已关闭 issue**: 3046 · **开放 issue**: 733 · **提交数**: 6576
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 7 | 63 | 86 | 119 | 92 | 170 |
-| last60d | 2026-08-18 | 20 | 122 | 178 | 298 | 156 | 324 |
-| 90d | 2026-07-19 | 23 | 186 | 306 | 482 | 245 | 429 |
-| last180d | 2026-04-20 | 50 | 431 | 573 | 1211 | 516 | 885 |
-| 360d | 2025-10-22 | 100 | 824 | 636 | 1843 | 714 | 1626 |
-| last720d | 2024-10-27 | 100 | 1312 | 636 | 2622 | 742 | 4899 |
+| 30d | 2026-09-18 | 8 | 62 | 82 | 126 | 90 | 179 |
+| last60d | 2026-08-19 | 20 | 127 | 168 | 302 | 154 | 333 |
+| 90d | 2026-07-20 | 24 | 190 | 298 | 479 | 240 | 438 |
+| last180d | 2026-04-21 | 51 | 436 | 568 | 1220 | 509 | 894 |
+| 360d | 2025-10-23 | 100 | 828 | 633 | 1853 | 710 | 1635 |
+| last720d | 2024-10-28 | 100 | 1318 | 633 | 2643 | 730 | 4908 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/checksums-linux.txt) | 180 B | `other` |
-| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/checksums-macos.txt) | 93 B | `native/darwin/x64` |
-| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/checksums-windows.txt) | 91 B | `native/win/x64` |
-| [new-api-arm64-v1.0.0-rc.44](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/new-api-arm64-v1.0.0-rc.44) | 126.1 MiB | `other` |
-| [new-api-macos-v1.0.0-rc.44](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/new-api-macos-v1.0.0-rc.44) | 152.4 MiB | `native/darwin/x64` |
-| [new-api-v1.0.0-rc.44](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/new-api-v1.0.0-rc.44) | 130.1 MiB | `other` |
-| [new-api-v1.0.0-rc.44.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.44/new-api-v1.0.0-rc.44.exe) | 131.8 MiB | `other` |
+| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-linux.txt) | 180 B | `other` |
+| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-macos.txt) | 93 B | `native/darwin/x64` |
+| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-windows.txt) | 91 B | `native/win/x64` |
+| [new-api-arm64-v1.0.0-rc.45](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-arm64-v1.0.0-rc.45) | 126.3 MiB | `other` |
+| [new-api-macos-v1.0.0-rc.45](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-macos-v1.0.0-rc.45) | 152.7 MiB | `native/darwin/x64` |
+| [new-api-v1.0.0-rc.45](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-v1.0.0-rc.45) | 130.3 MiB | `other` |
+| [new-api-v1.0.0-rc.45.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-v1.0.0-rc.45.exe) | 132.0 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ new-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261017.yml` · 2026-10-17T04:45:19Z._
+_数据快照: `data/card/261018.yml` · 2026-10-18T04:48:45Z._
