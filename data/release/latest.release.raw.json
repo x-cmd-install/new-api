@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 180,
       "digest": "sha256:9e23ea65f99fc83556288507c5c654cb8e244a7d3406a4d5ef3c0644fbe82f3e",
-      "download_count": 35,
+      "download_count": 118,
       "created_at": "2026-10-17T15:42:34Z",
       "updated_at": "2026-10-17T15:42:34Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-linux.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:e465d6f5632b7bd628ae8cf4993156ca104690419620edba14c3d71132a5ca46",
-      "download_count": 4,
+      "download_count": 23,
       "created_at": "2026-10-17T15:43:17Z",
       "updated_at": "2026-10-17T15:43:18Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-macos.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:8c4c13f229eaae5817c6aaca7230fa18dc5b56b5b7a40b301dd226770f57bd5f",
-      "download_count": 25,
+      "download_count": 94,
       "created_at": "2026-10-17T15:43:45Z",
       "updated_at": "2026-10-17T15:43:45Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/checksums-windows.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 132382985,
       "digest": "sha256:8d3e836cb38f48e248f815cb3f361d54043606a41d1ebdd3be2531f03c9a84d4",
-      "download_count": 47,
+      "download_count": 97,
       "created_at": "2026-10-17T15:42:34Z",
       "updated_at": "2026-10-17T15:42:39Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-arm64-v1.0.0-rc.45"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 160121410,
       "digest": "sha256:984ac0e0152fba973a46c5040656f3bc8070e0473adeb0926d9c50aaca728aa6",
-      "download_count": 10,
+      "download_count": 87,
       "created_at": "2026-10-17T15:43:18Z",
       "updated_at": "2026-10-17T15:43:30Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-macos-v1.0.0-rc.45"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 136601865,
       "digest": "sha256:0eb9bcda72b25f840226d2493f2ef1074471fa511298213bca89672add7ceee9",
-      "download_count": 64,
+      "download_count": 265,
       "created_at": "2026-10-17T15:42:34Z",
       "updated_at": "2026-10-17T15:42:40Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-v1.0.0-rc.45"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 138455552,
       "digest": "sha256:e076b9769275eb1bbc1f67734b414ed8dde4627ee4d3d6c9d3986cac79e43fa6",
-      "download_count": 105,
+      "download_count": 406,
       "created_at": "2026-10-17T15:43:45Z",
       "updated_at": "2026-10-17T15:43:50Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.45/new-api-v1.0.0-rc.45.exe"
@@ -292,5 +292,17 @@
   "tarball_url": "https://api.github.com/repos/QuantumNous/new-api/tarball/v1.0.0-rc.45",
   "zipball_url": "https://api.github.com/repos/QuantumNous/new-api/zipball/v1.0.0-rc.45",
   "body": "> [!IMPORTANT]\r\n> v1 正式版即将发布，现在是最后几个 RC 版本。新增 DeepSeek V4.1 Flash、Search 和 Fetch，通知分开开关，以及拖动排列渠道优先级的功能。\r\n>\r\n> 敏感词过滤默认关着。以前填过敏感词、但没保存过这个开关的，升级后到「请求检查」里打开。\r\n>\r\n> v1 is coming soon. These are the last few release candidates. Added DeepSeek V4.1 Flash, Search and Fetch, separate notification switches, and dragging to set channel priority.\r\n>\r\n> Sensitive word filtering is off by default. If you filled in a word list and never saved the switch, turn it on under Request checks after upgrading.\r\n\r\n## 中文\r\n\r\n* **DeepSeek**：新增 DeepSeek V4.1 Flash（deepseek-flash）和 deepseek-v4-pro 的支持，后面可以加 -none、-low、-max，`@thinking` 和 `@effort` 也能用。新增 Search 和 Fetch，地址是 /v1/tools/search 和 /v1/tools/fetch。Claude Code 和 Codex 让 DeepSeek 去搜索、打开网页时，按次数计费，每 1000 次 0.75 美元。\r\n* **通知**：新增按种类开关通知的功能，余额不足提醒默认开着。验证码、重置密码、绑定邮箱，看 SMTP 有没有配好。余额低于你设的数时提醒一次，充回去之后，下次再低才会再提醒。\r\n* **渠道**：新增拖动调整渠道优先级的功能，在渠道列表打开「拖拽模式」。新增 New API 渠道查询上游余额的功能，也可以绑定海螺、Vidu 和 Veo。新增令牌「允许查询用户额度」，新建的默认开着，以前建的还是关的。\r\n* **限流和计费**：修复分组限流算到一起的问题，某个分组自己设了限流，就按这个分组的次数算。修复 Vidu 收费和实际生成对不上的问题，按它实际生成的模型、时长和分辨率计费。修复 Claude 流式把上游报的 0 丢掉的问题，报了 0 就按 0 算。提示词全在缓存里时，按读缓存的价格计费。\r\n* **报错**：修复请求内容读失败时看不出原因的问题。上游报错里，你填的地址、IP 和密钥会被藏起来，文档链接和邮箱还看得到。\r\n* **其他**：新增 Sub2API 查询余额的功能。新增 AWS 的 Mantle（Messages API），已经在用的还是 InvokeModel。新增 Vertex 用 API Key 时填写项目 ID 的功能。任务插件这一版更快。\r\n* **修复**：修复 Vertex 的 us、eu 访问地址错误的问题。修复容器里过载保护看错 CPU 和内存的问题，看的是容器自己的，连续大约 15 秒都过高才会拒绝请求。\r\n\r\n## English\r\n\r\n* **DeepSeek**: Added deepseek-flash and deepseek-v4-pro. You can add -none, -low, or -max, and `@thinking` and `@effort` work too. Added Search and Fetch at /v1/tools/search and /v1/tools/fetch. When Claude Code or Codex has DeepSeek search or open a page, that is charged per request, $0.75 per 1,000.\r\n* **Notifications**: Added a switch for each kind of notification. The low balance reminder starts on. Verification codes, password resets, and email binding go out when SMTP is set up. You get one reminder when the balance goes below the number you set, and another the next time it does, after a top-up.\r\n* **Channels**: Added dragging to change channel priority. Turn on Drag mode in the channel list. Added upstream balance checks for New API channels, which can also bind Hailuo, Vidu, and Veo. Added Allow querying user quota on tokens. New tokens start with it on. Older tokens stay off.\r\n* **Rate limits and billing**: Fixed group rate limits being counted together. A group with its own limit is counted on its own. Fixed Vidu charges that did not match the video it generated. The charge uses the model, duration, and resolution it actually made. Fixed Claude streams dropping a 0 from the upstream. A reported 0 stays 0. When the whole prompt is cached, the charge is the cache-read price.\r\n* **Errors**: Fixed request failures that hid the real reason the body could not be read. If it is too large, the response is 413. In an upstream error, the address, IP, and key you entered are hidden. Documentation links and email addresses stay visible.\r\n* **Also**: Added balance checks for Sub2API channels. Added Mantle (Messages API) for AWS channels. Ones already in use stay on InvokeModel. Added a project ID field for Vertex API Key mode. Task plugins are faster in this release.\r\n* **Fixes**: Fixed wrong Vertex addresses for the us and eu regions. Fixed overload protection in containers reading the wrong CPU and memory. It uses the container's own, and turns requests away only after they stay too high for about 15 seconds.\r\n\r\n---\r\n\r\n## What's Changed\r\n* feat(ui): show newly added pricing groups at the top by @seefs001 in https://github.com/QuantumNous/new-api/pull/7782\r\n* feat(channel): support Sub2API balance queries by @AdoreJc in https://github.com/QuantumNous/new-api/pull/7749\r\n* fix: disable sensitive word filtering by default and clear list by @seefs001 in https://github.com/QuantumNous/new-api/pull/7814\r\n* fix(vertex): pass project_id in API Key mode to avoid 404 on official endpoints by @xiaoyuyu6420 in https://github.com/QuantumNous/new-api/pull/6330\r\n* fix(web): sort pricing models by input, output and per-request price by @feitianbubu in https://github.com/QuantumNous/new-api/pull/7813\r\n* fix(claude): preserve explicit zero usage and cache-only billing by @paopaoandlingyia in https://github.com/QuantumNous/new-api/pull/7816\r\n* fix(relay): mask only the custom upstream address in error messages by @RedwindA in https://github.com/QuantumNous/new-api/pull/7822\r\n* fix(playground): support the reasoning field in chat responses by @seefs001 in https://github.com/QuantumNous/new-api/pull/7831\r\n* fix(dashboard): draw flow chart labels in the theme text color by @RedwindA in https://github.com/QuantumNous/new-api/pull/7821\r\n* fix(relaykit): emit summary on reasoning items announced without one by @rjchien728 in https://github.com/QuantumNous/new-api/pull/7833\r\n* fix(middleware): 过载哨兵改用容器口径并加入连续性与新鲜度判定 by @ax2 in https://github.com/QuantumNous/new-api/pull/7317\r\n* fix(relayconvert): 保留 Chat/Claude → Responses 转换中 input_image 的 detail 字段 by @sicnuyudidi in https://github.com/QuantumNous/new-api/pull/7855\r\n* fix(web): 补全日志页模型厂商规则（Cloudflare clef、NVIDIA 家族） by @xuu1998 in https://github.com/QuantumNous/new-api/pull/7840\r\n* fix(web): apply theme before first paint to avoid light flash and Dark Reader misdetection by @RedwindA in https://github.com/QuantumNous/new-api/pull/7571\r\n* fix: align model card summary with status bar hours by @feitianbubu in https://github.com/QuantumNous/new-api/pull/7847\r\n* feat(notify): turn each kind of notification on or off by @Calcium-Ion in https://github.com/QuantumNous/new-api/pull/7868\r\n* feat(deepseek): support V4.1 Flash, the Search and Fetch APIs, and @ reasoning modifiers by @Calcium-Ion in https://github.com/QuantumNous/new-api/pull/7867\r\n\r\n## New Contributors\r\n* @AdoreJc made their first contribution in https://github.com/QuantumNous/new-api/pull/7749\r\n* @xiaoyuyu6420 made their first contribution in https://github.com/QuantumNous/new-api/pull/6330\r\n* @paopaoandlingyia made their first contribution in https://github.com/QuantumNous/new-api/pull/7816\r\n* @rjchien728 made their first contribution in https://github.com/QuantumNous/new-api/pull/7833\r\n* @sicnuyudidi made their first contribution in https://github.com/QuantumNous/new-api/pull/7855\r\n* @xuu1998 made their first contribution in https://github.com/QuantumNous/new-api/pull/7840\r\n\r\n**Full Changelog**: https://github.com/QuantumNous/new-api/compare/v1.0.0-rc.44...v1.0.0-rc.45",
+  "reactions": {
+    "url": "https://api.github.com/repos/QuantumNous/new-api/releases/415892723/reactions",
+    "total_count": 5,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 2,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 1,
+    "eyes": 0
+  },
   "mentions_count": 11
 }
