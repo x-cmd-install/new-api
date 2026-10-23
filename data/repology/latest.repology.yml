@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: new-api-bin
+  binname: new-api-bin
+  visiblename: new-api-bin
+  version: 1.0.0.rc31
+  origversion: 1.0.0.rc.31-1
+  status: unique
+  summary: OpenAI API management and distribution
+  maintainers:
+    - tsaitang@aur
+  licenses:
+    - MIT
