@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.
+Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.
 
 [![x-cmd/install — new-api Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/new-api.svg?lang=zh)](https://x-cmd.com/install/new-api)
 
@@ -14,14 +14,14 @@ x install new-api
 
 ## 代码洞察
 
-合计: **555,034** 行代码（覆盖前 5 种语言、共 **2530** 个文件）。
+合计: **555,339** 行代码（覆盖前 5 种语言、共 **2530** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 228,609 | 10,359 | 22,800 | 1060 |
-| Tsx | 183,219 | 18,784 | 12,105 | 915 |
+| Go | 228,912 | 10,364 | 22,810 | 1060 |
+| Tsx | 183,220 | 18,784 | 12,105 | 915 |
 | Json | 74,075 | 0 | 5 | 43 |
-| TypeScript | 58,625 | 14,042 | 5,899 | 494 |
+| TypeScript | 58,626 | 14,042 | 5,899 | 494 |
 | JavaScript | 8,422 | 470 | 403 | 18 |
 
 ## 源代码
@@ -38,22 +38,22 @@ x install new-api
 
 ## 流行度
 
-- **Star**: 50,835 · **Fork**: 12,311 · **开放 issue**: 3,886 · **贡献者**: 331
+- **Star**: 50,915 · **Fork**: 12,335 · **开放 issue**: 3,892 · **贡献者**: 332
 
 ## 累计统计
 
-- **发布数**: 534 · **已合并 PR**: 1453 · **开放 PR**: 645 · **已关闭 issue**: 3124 · **开放 issue**: 762 · **提交数**: 6628
+- **发布数**: 534 · **已合并 PR**: 1458 · **开放 PR**: 645 · **已关闭 issue**: 3135 · **开放 issue**: 757 · **提交数**: 6633
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 7 | 77 | 89 | 147 | 100 | 153 |
-| last60d | 2026-08-29 | 21 | 144 | 165 | 328 | 177 | 352 |
-| 90d | 2026-07-30 | 25 | 205 | 284 | 472 | 245 | 431 |
-| last180d | 2026-05-01 | 45 | 443 | 555 | 1209 | 512 | 884 |
-| 360d | 2025-11-02 | 100 | 846 | 645 | 1902 | 738 | 1644 |
-| last720d | 2024-11-07 | 100 | 1347 | 645 | 2710 | 759 | 4929 |
+| 30d | 2026-09-29 | 7 | 81 | 85 | 146 | 99 | 158 |
+| last60d | 2026-08-30 | 20 | 146 | 164 | 321 | 176 | 357 |
+| 90d | 2026-07-31 | 25 | 203 | 277 | 478 | 239 | 436 |
+| last180d | 2026-05-02 | 45 | 448 | 553 | 1213 | 509 | 889 |
+| 360d | 2025-11-03 | 100 | 844 | 645 | 1911 | 733 | 1649 |
+| last720d | 2024-11-08 | 100 | 1352 | 645 | 2720 | 754 | 4931 |
 
 ## Release 资产
 
@@ -76,4 +76,4 @@ new-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261028.yml` · 2026-10-28T06:03:56Z._
+_数据快照: `data/card/261029.yml` · 2026-10-29T06:07:15Z._
