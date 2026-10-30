@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 180,
       "digest": "sha256:b341334ab191123c6026dd55632d37b3ea47bc2bf3af93d426b5621543b240e0",
-      "download_count": 412,
+      "download_count": 507,
       "created_at": "2026-10-25T09:08:18Z",
       "updated_at": "2026-10-25T09:08:18Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-linux.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 93,
       "digest": "sha256:c4107532392d7722b2bac029d371205d5f6a7b4542d6ebedb53bbdd3186a7e72",
-      "download_count": 102,
+      "download_count": 121,
       "created_at": "2026-10-25T09:08:13Z",
       "updated_at": "2026-10-25T09:08:14Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-macos.txt"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 91,
       "digest": "sha256:0464a16c9a1552c3243afdc28464e65e8661ef5a74d9ad6d97b4789e0d4cc377",
-      "download_count": 362,
+      "download_count": 457,
       "created_at": "2026-10-25T09:10:24Z",
       "updated_at": "2026-10-25T09:10:24Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-windows.txt"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 132579593,
       "digest": "sha256:cf667b6b82d405adf8c51ae5b0b3c17a5fb0c9943fbc53cdfd1685b517c2a98c",
-      "download_count": 144,
+      "download_count": 169,
       "created_at": "2026-10-25T09:08:18Z",
       "updated_at": "2026-10-25T09:08:24Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-arm64-v1.0.0-rc.47"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 160364258,
       "digest": "sha256:f5859a8a18d07b13d7fdd7b175416e221e73d494056dd7643999ba30a846f391",
-      "download_count": 180,
+      "download_count": 218,
       "created_at": "2026-10-25T09:08:13Z",
       "updated_at": "2026-10-25T09:08:20Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-macos-v1.0.0-rc.47"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 136798473,
       "digest": "sha256:9862deb72e9567fad943d0efadc22067f48b36c30bf93536874c0976467c534c",
-      "download_count": 1267,
+      "download_count": 1546,
       "created_at": "2026-10-25T09:08:18Z",
       "updated_at": "2026-10-25T09:08:23Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-v1.0.0-rc.47"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 138673664,
       "digest": "sha256:facf3714e560c83a5abee82094ee68de89ceb07a09b93b42a713e6fe7e37d76a",
-      "download_count": 1626,
+      "download_count": 2016,
       "created_at": "2026-10-25T09:10:24Z",
       "updated_at": "2026-10-25T09:10:28Z",
       "browser_download_url": "https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-v1.0.0-rc.47.exe"
