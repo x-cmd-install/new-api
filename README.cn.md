@@ -14,11 +14,11 @@ x install new-api
 
 ## 代码洞察
 
-合计: **562,862** 行代码（覆盖前 5 种语言、共 **2537** 个文件）。
+合计: **563,262** 行代码（覆盖前 5 种语言、共 **2539** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 234,188 | 10,933 | 23,109 | 1062 |
+| Go | 234,588 | 10,928 | 23,124 | 1064 |
 | Tsx | 184,269 | 18,874 | 12,190 | 918 |
 | Json | 74,321 | 0 | 5 | 43 |
 | TypeScript | 58,780 | 14,103 | 5,918 | 496 |
@@ -32,40 +32,40 @@ x install new-api
 
 ## 发布
 
-- **最新版本**: `v1.0.0-rc.47` (2026-10-25)
-- **最近提交**: 2026-11-03
+- **最新版本**: `v1.0.0-rc.48` (2026-11-04)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 7 个
 
 ## 流行度
 
-- **Star**: 51,312 · **Fork**: 12,460 · **开放 issue**: 3,939 · **贡献者**: 337
+- **Star**: 51,403 · **Fork**: 12,483 · **开放 issue**: 3,943 · **贡献者**: 336
 
 ## 累计统计
 
-- **发布数**: 534 · **已合并 PR**: 1487 · **开放 PR**: 656 · **已关闭 issue**: 3171 · **开放 issue**: 768 · **提交数**: 6666
+- **发布数**: 535 · **已合并 PR**: 1486 · **开放 PR**: 664 · **已关闭 issue**: 3173 · **开放 issue**: 770 · **提交数**: 6667
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 6 | 99 | 85 | 160 | 105 | 171 |
-| last60d | 2026-09-05 | 15 | 157 | 157 | 305 | 180 | 336 |
-| 90d | 2026-08-06 | 24 | 222 | 263 | 471 | 238 | 459 |
-| last180d | 2026-05-08 | 43 | 465 | 559 | 1178 | 517 | 898 |
-| 360d | 2025-11-09 | 100 | 865 | 656 | 1929 | 743 | 1662 |
-| last720d | 2024-11-14 | 100 | 1378 | 656 | 2754 | 766 | 4944 |
+| 30d | 2026-10-06 | 7 | 100 | 91 | 159 | 106 | 172 |
+| last60d | 2026-09-06 | 15 | 158 | 161 | 305 | 181 | 337 |
+| 90d | 2026-08-07 | 25 | 220 | 268 | 471 | 238 | 460 |
+| last180d | 2026-05-09 | 44 | 466 | 563 | 1170 | 515 | 899 |
+| 360d | 2025-11-10 | 100 | 863 | 664 | 1926 | 745 | 1662 |
+| last720d | 2024-11-15 | 100 | 1377 | 664 | 2755 | 768 | 4944 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-linux.txt) | 180 B | `other` |
-| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-macos.txt) | 93 B | `native/darwin/x64` |
-| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/checksums-windows.txt) | 91 B | `native/win/x64` |
-| [new-api-arm64-v1.0.0-rc.47](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-arm64-v1.0.0-rc.47) | 126.4 MiB | `other` |
-| [new-api-macos-v1.0.0-rc.47](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-macos-v1.0.0-rc.47) | 152.9 MiB | `native/darwin/x64` |
-| [new-api-v1.0.0-rc.47](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-v1.0.0-rc.47) | 130.5 MiB | `other` |
-| [new-api-v1.0.0-rc.47.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.47/new-api-v1.0.0-rc.47.exe) | 132.2 MiB | `other` |
+| [checksums-linux.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/checksums-linux.txt) | 180 B | `other` |
+| [checksums-macos.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/checksums-macos.txt) | 93 B | `native/darwin/x64` |
+| [checksums-windows.txt](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/checksums-windows.txt) | 91 B | `native/win/x64` |
+| [new-api-arm64-v1.0.0-rc.48](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/new-api-arm64-v1.0.0-rc.48) | 126.9 MiB | `other` |
+| [new-api-macos-v1.0.0-rc.48](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/new-api-macos-v1.0.0-rc.48) | 153.6 MiB | `native/darwin/x64` |
+| [new-api-v1.0.0-rc.48](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/new-api-v1.0.0-rc.48) | 131.0 MiB | `other` |
+| [new-api-v1.0.0-rc.48.exe](https://github.com/QuantumNous/new-api/releases/download/v1.0.0-rc.48/new-api-v1.0.0-rc.48.exe) | 132.8 MiB | `other` |
 
 ## 改进这些数据
 
@@ -76,4 +76,4 @@ new-api 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T06:45:16Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:30:00Z._
