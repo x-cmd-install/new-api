@@ -14,14 +14,14 @@ x install new-api
 
 ## Code insight
 
-Total: **624,303** lines of code across **2696** files in the top 5 languages.
+Total: **625,187** lines of code across **2699** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 271,266 | 14,368 | 25,471 | 1131 |
-| Tsx | 199,396 | 20,207 | 13,230 | 975 |
-| Json | 77,114 | 0 | 5 | 43 |
-| TypeScript | 63,485 | 15,115 | 6,303 | 523 |
+| Go | 271,785 | 14,474 | 25,512 | 1132 |
+| Tsx | 199,665 | 20,238 | 13,246 | 976 |
+| Json | 77,171 | 0 | 5 | 43 |
+| TypeScript | 63,524 | 15,145 | 6,309 | 524 |
 | JavaScript | 10,910 | 807 | 496 | 24 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **624,303** lines of code across **2696** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0-rc.51` (2026-11-13)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-16
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 51,930 · **Forks**: 12,672 · **Open issues**: 3,987 · **Contributors**: 340
+- **Stars**: 51,993 · **Forks**: 12,690 · **Open issues**: 3,991 · **Contributors**: 340
 
 ## Totals (cumulative)
 
-- **Releases**: 538 · **Merged PRs**: 1508 · **Open PRs**: 686 · **Closed issues**: 3208 · **Open issues**: 779 · **Commits**: 6699
+- **Releases**: 538 · **Merged PRs**: 1513 · **Open PRs**: 685 · **Closed issues**: 3209 · **Open issues**: 782 · **Commits**: 6704
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 7 | 81 | 104 | 126 | 94 | 135 |
-| last60d | 2026-09-16 | 14 | 156 | 171 | 264 | 176 | 319 |
-| 90d | 2026-08-17 | 27 | 217 | 253 | 440 | 238 | 461 |
-| last180d | 2026-05-19 | 45 | 457 | 552 | 1089 | 499 | 908 |
-| 360d | 2025-11-20 | 100 | 860 | 686 | 1938 | 751 | 1670 |
-| last720d | 2024-11-25 | 100 | 1395 | 686 | 2781 | 777 | 4950 |
+| 30d | 2026-10-17 | 7 | 83 | 107 | 122 | 94 | 97 |
+| last60d | 2026-09-17 | 14 | 158 | 170 | 256 | 178 | 255 |
+| 90d | 2026-08-18 | 27 | 221 | 252 | 436 | 241 | 460 |
+| last180d | 2026-05-20 | 44 | 458 | 547 | 1083 | 497 | 873 |
+| 360d | 2025-11-21 | 100 | 864 | 685 | 1933 | 754 | 1642 |
+| last720d | 2024-11-26 | 100 | 1400 | 685 | 2782 | 780 | 4954 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for new-api lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:59:43Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:10:20Z._
