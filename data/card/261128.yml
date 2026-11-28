@@ -1,0 +1,183 @@
+about:
+  description: "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting."
+  license: AGPL-3.0
+  homepage: https://www.newapi.ai
+  head: 04dfcbb
+  archived: false
+  latestVersion: "v1.0.0-rc.52"
+  latestRelease: "v1.0.0-rc.52"
+  latestPrerelease: "v1.0.0-alpha.1"
+  collectedAt: 2026-11-28T08:20:49Z
+timeline:
+  created: 2023-11-10
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-27
+  lastRelease: 2026-11-27
+  lastPrerelease: 2026-04-28
+popularity:
+  star: 52670
+  watcher: 165
+  fork: 12899
+  release: 539
+  contributor: 348
+  pullRequest: 3725
+  issue: 4048
+language:
+  Go: 11626897
+  TypeScript: 2566032
+  JavaScript: 507040
+  CSS: 61517
+  Makefile: 3122
+  Dockerfile: 1605
+  HTML: 1254
+  Shell: 1248
+  Lua: 1246
+totalBytes: 14769961
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 5
+    mergedPR: 70
+    openPR: 100
+    closedIssue: 75
+    openIssue: 77
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 12
+    mergedPR: 163
+    openPR: 175
+    closedIssue: 227
+    openIssue: 174
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 25
+    mergedPR: 229
+    openPR: 251
+    closedIssue: 406
+    openIssue: 247
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 43
+    mergedPR: 456
+    openPR: 535
+    closedIssue: 1036
+    openIssue: 486
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 857
+    openPR: 706
+    closedIssue: 1937
+    openIssue: 770
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 1416
+    openPR: 706
+    closedIssue: 2813
+    openIssue: 798
+    commit: 4948
+total:
+  release: 539
+  mergedPR: 1543
+  openPR: 706
+  closedIssue: 3248
+  openIssue: 800
+  commit: 6747
+---
+path: /home/runner/.x-repo/github.com/QuantumNous/new-api
+collectedAt: 2026-11-28T08:21:00Z
+loc:
+  Go:
+    code: 276121
+    comments: 14752
+    blanks: 25832
+    files: 1152
+  Tsx:
+    code: 201758
+    comments: 20372
+    blanks: 13356
+    files: 983
+  Json:
+    code: 77594
+    comments: 0
+    blanks: 5
+    files: 43
+  TypeScript:
+    code: 64164
+    comments: 15232
+    blanks: 6358
+    files: 527
+  JavaScript:
+    code: 10937
+    comments: 810
+    blanks: 497
+    files: 24
+  Css:
+    code: 1475
+    comments: 242
+    blanks: 163
+    files: 4
+  Yaml:
+    code: 384
+    comments: 104
+    blanks: 29
+    files: 6
+  Sh:
+    code: 66
+    comments: 2
+    blanks: 14
+    files: 2
+  Makefile:
+    code: 65
+    comments: 1
+    blanks: 11
+    files: 1
+  Svg:
+    code: 44
+    comments: 0
+    blanks: 0
+    files: 9
+  Dockerfile:
+    code: 32
+    comments: 3
+    blanks: 9
+    files: 1
+  Lua:
+    code: 25
+    comments: 12
+    blanks: 7
+    files: 1
+  Sql:
+    code: 23
+    comments: 0
+    blanks: 0
+    files: 2
+  Html:
+    code: 20
+    comments: 6
+    blanks: 3
+    files: 1
+  Toml:
+    code: 4
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6209
+    blanks: 1825
+    files: 27
+total:
+  code: 633073
+  comments: 57765
+  blanks: 48132
+  files: 2784
+---
+
+---
